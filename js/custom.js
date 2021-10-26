@@ -24,8 +24,8 @@ function initTimer()
 {
     if($('.timer').length)
     {
-        // uncomment line below and reolace date
-        var target_date = new Date("July 10, 2021").getTime();
+        // uncomment line below and replace date
+        var target_date = new Date("December 10, 2021").getTime();
 
         //var date = new Date();
         //date.setDate(date.getDate() + 3);
